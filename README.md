@@ -1,4 +1,4 @@
 # E-Commerce App
 
-A new Flutter project.
+A new Flutter project like Amazon App.
 
