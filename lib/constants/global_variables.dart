@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 //String uri = 'http://192.168.1.4:3000';
-String uri = 'https://amazon-ecomm.herokuapp.com';
+String uri = 'https://ecommerce-app-amazon.herokuapp.com/';
 
 class GlobalVariables {
   static const appBarGradiant = LinearGradient(
